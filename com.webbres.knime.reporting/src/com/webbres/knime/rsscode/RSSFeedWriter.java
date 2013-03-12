@@ -12,7 +12,11 @@ import javax.xml.stream.events.StartDocument;
 import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
 
-
+/**
+ * Made available under EPL from http://www.vogella.com/articles/RSSFeed/article.html
+ * @author Sam
+ *
+ */
 
 public class RSSFeedWriter 
 {

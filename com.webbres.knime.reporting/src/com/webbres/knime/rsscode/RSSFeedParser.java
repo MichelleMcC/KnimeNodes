@@ -11,7 +11,11 @@ import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.Characters;
 import javax.xml.stream.events.XMLEvent;
 
-
+/**
+ * Made available under EPL from http://www.vogella.com/articles/RSSFeed/article.html
+ * @author Sam
+ *
+ */
 
 public class RSSFeedParser {
   static final String TITLE = "title";

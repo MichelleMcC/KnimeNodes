@@ -3,6 +3,12 @@ package com.webbres.knime.rsscode;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Made available under EPL from http://www.vogella.com/articles/RSSFeed/article.html
+ * @author Sam
+ *
+ */
+
 /*
  * Stores an RSS feed
  */

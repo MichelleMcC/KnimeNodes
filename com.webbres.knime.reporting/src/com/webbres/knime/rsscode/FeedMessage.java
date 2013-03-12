@@ -1,5 +1,11 @@
 package com.webbres.knime.rsscode;
 
+/**
+ * Made available under EPL from http://www.vogella.com/articles/RSSFeed/article.html
+ * @author Sam
+ *
+ */
+
 /*
  * Represents one RSS message
  */
