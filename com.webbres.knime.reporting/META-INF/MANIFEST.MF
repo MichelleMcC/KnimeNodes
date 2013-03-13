@@ -1,9 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: RssUpdate-Node extension for KNIME Workbench
+Bundle-Name: Reporting - Node extension for KNIME Workbench
 Bundle-SymbolicName: com.webbres.knime.rss.rssupdate; singleton:=true
 Bundle-Version: 1.0.0
-Bundle-ClassPath: rssupdate.jar
+Bundle-ClassPath: .,
+ rssupdate.jar
 Bundle-Activator: com.webbres.knime.rss.rssupdate.RssUpdateNodePlugin
 Bundle-Vendor: Sam Webb
 Require-Bundle: org.eclipse.core.runtime,
