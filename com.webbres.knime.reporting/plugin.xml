@@ -14,8 +14,8 @@
    -->
    
    <extension point="org.knime.workbench.repository.nodes">
-      <node category-path="/" factory-class="com.webbres.knime.rss.rssupdate.RssUpdateNodeFactory" id="com.webbres.knime.rss.rssupdate.RssUpdateNodeFactory"/>
-   <node category-path="/" factory-class="com.webbres.knime.rss.rssfreedcreator.RssFeedCreatorNodeFactory" id="com.webbres.knime.rss.rssfreedcreator.RssFeedCreatorNodeFactory"/>
+      <node category-path="/" factory-class="com.webbres.knime.reporting.rss.rssupdate.RssUpdateNodeFactory" id="com.webbres.knime.rss.rssupdate.RssUpdateNodeFactory"/>
+   <node category-path="/" factory-class="com.webbres.knime.reporting.rss.rssfreedcreator.RssFeedCreatorNodeFactory" id="com.webbres.knime.rss.rssfreedcreator.RssFeedCreatorNodeFactory"/>
 </extension>
    
 </plugin>
