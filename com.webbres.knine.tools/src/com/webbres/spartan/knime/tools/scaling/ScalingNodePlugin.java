@@ -2,7 +2,7 @@
  * $Revision$ $Date$ $Author$
  *
  */
-package com.webbres.knime.tools.scaling;
+package com.webbres.spartan.knime.tools.scaling;
 
 import org.eclipse.core.runtime.Plugin;
 import org.osgi.framework.BundleContext;

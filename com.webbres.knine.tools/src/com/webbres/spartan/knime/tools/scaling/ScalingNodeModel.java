@@ -1,4 +1,4 @@
-package com.webbres.knime.tools.scaling;
+package com.webbres.spartan.knime.tools.scaling;
 
 import java.io.File;
 import java.io.IOException;

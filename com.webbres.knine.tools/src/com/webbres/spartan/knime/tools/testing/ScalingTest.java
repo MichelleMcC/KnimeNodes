@@ -1,13 +1,13 @@
 /**
  * 
  */
-package com.webbres.knime.tools.testing;
+package com.webbres.spartan.knime.tools.testing;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.webbres.knime.tools.functionality.Scaling;
+import com.webbres.spartan.knime.tools.functionality.Scaling;
 
 /**
  * @author Sam

@@ -1,4 +1,4 @@
-package com.webbres.knime.tools.functionality;
+package com.webbres.spartan.knime.tools.functionality;
 
 
 /**

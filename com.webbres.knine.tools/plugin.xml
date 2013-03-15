@@ -18,7 +18,7 @@
          point="org.knime.workbench.repository.nodes">
       <node
             category-path="/"
-            factory-class="com.webbres.knime.tools.scaling.ScalingNodeFactory"
+            factory-class="com.webbres.spartan.knime.tools.scaling.ScalingNodeFactory"
             id="com.webbres.knime.tools.scaling.ScalingNodeFactory"/>
    </extension>
    

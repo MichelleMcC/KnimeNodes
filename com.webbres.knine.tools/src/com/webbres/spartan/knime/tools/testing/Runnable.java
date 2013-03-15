@@ -1,6 +1,6 @@
-package com.webbres.knime.tools.testing;
+package com.webbres.spartan.knime.tools.testing;
 
-import com.webbres.knime.tools.functionality.Scaling;
+import com.webbres.spartan.knime.tools.functionality.Scaling;
 
 public class Runnable 
 {
